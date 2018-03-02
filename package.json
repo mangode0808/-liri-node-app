@@ -1,0 +1,31 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangode0808/-liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "Mango",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mangode0808/-liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mangode0808/-liri-node-app#readme",
+  "dependencies": {
+    "db": "^1.0.6",
+    "dotenv": "^5.0.1",
+    "geocoder": "^0.2.3",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {}
+}
