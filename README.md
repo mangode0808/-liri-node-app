@@ -50,5 +50,5 @@ Created during Northwestern Coding Bootcamp. The challenge was to use Node JS to
 
 4. `node liri.js do-what-it-says`
 
-  * Takes the text from random.txt and runs the song through spotify-this-song command
+  * Takes the text from random.txt and runs the song through spotify-this-song command.
 
